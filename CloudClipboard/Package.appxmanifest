@@ -3,7 +3,7 @@
   <Identity Name="58268Umriyaev.Cloudclipboardtest" Publisher="CN=FE3DD2E1-ED2B-413A-802B-69A9C94459ED" Version="1.1.0.0" />
   <mp:PhoneIdentity PhoneProductId="6346984c-f2b5-4db5-8043-f6236ccbf683" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>Cloud clipboard test</DisplayName>
+    <DisplayName>Virtual Clipboard</DisplayName>
     <PublisherDisplayName>Umriyaev</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -15,7 +15,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="CloudClipboard.App">
-      <uap:VisualElements DisplayName="Cloud clipboard test" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="CloudClipboard" BackgroundColor="transparent">
+      <uap:VisualElements DisplayName="Virtual Clipboard" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="Virtual Clipboard lets synchronize your clipboard content across your devices" BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png">
         </uap:DefaultTile>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
